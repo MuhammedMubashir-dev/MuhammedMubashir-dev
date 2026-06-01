@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey There! 👋
 
-<!--
-**MuhammedMubashir-dev/MuhammedMubashir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Muhammed Mubashir**, a Software Developer from Kerala, India 🇮🇳
 
-Here are some ideas to get you started:
+💼 Currently working at **ENKE Consulting Services LLP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building production web and mobile applications using Next.js, React, Flutter, ERP Integrations and REST APIs.
+
+---
+
+## 🌱 Currently Working On
+
+- 🛒 Luzine Bakes (Production E-Commerce Platform)
+- 🏪 FUNZCART Commerce Platform
+- 📱 Ganvin Mobile Application
+- 🎨 Personal Portfolio Development
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,js,tailwind,git,github,vscode,postman" />
+</p>
+
+---
+
+## 💡 What I Do
+
+- 🔐 Authentication & OTP Workflows
+- 💳 Payment Gateway Integration (Razorpay)
+- 🔄 ERP & REST API Integrations
+- 🎨 Responsive Frontend Development
+- ⚡ Next.js Performance Optimization
+- 📱 Flutter Mobile Development
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio: https://muhammed-mubashir-portfolio.netlify.app
+- 📧 Email: muhammedmubashir720@gmail.com
+
+---
+
+⭐ Always learning, building, and improving.
