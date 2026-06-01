@@ -38,7 +38,9 @@ I'm **Muhammed Mubashir**, a Software Developer from Kerala, India 🇮🇳
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
+- 💼 LinkedIn: www.linkedin.com/in/muhammed-mubashir-k
+
+
 - 🌐 Portfolio: https://muhammed-mubashir-portfolio.netlify.app
 - 📧 Email: muhammedmubashir720@gmail.com
 
