@@ -1,45 +1,51 @@
-# Muhammed Mubashir K
+![Muhammed Mubashir K — Application Developer. Flutter, React Native, React and Next.js.](assets/profile-banner.svg)
 
-### Cross-Platform Mobile Developer · Flutter · React Native
+I’m **Muhammed Mubashir K**, a Junior Application Developer at **ENKE Consulting Services LLP** in Kerala, India. I contribute to mobile and web applications for retail, logistics, e-commerce, and business networking.
 
-I'm a Junior Application Developer at **ENKE Consulting Services LLP**, building production mobile and web applications for logistics, POS, e-commerce, and business networking.
+My experience includes Flutter and React Native applications, React and Next.js storefronts, REST API integrations, authentication, payments, and English/Arabic interfaces.
 
-- 📱 Building cross-platform apps with Flutter, Dart, React Native, and TypeScript
-- 🚀 Contributed to 7+ production applications with REST APIs and third-party integrations
-- 🌍 Experienced with bilingual English/Arabic applications and RTL interfaces
-- 📈 Promoted from Full Stack Developer Trainee to Junior Application Developer in three months
+[Portfolio](https://muhammed-mubashir-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/muhammed-mubashir-k/) · [Email](mailto:muhammedmubashir720@gmail.com)
 
-## Mobile development
+## Selected personal projects
 
-- **Flutter:** logistics, delivery, POS, inventory, billing, maps, PDF exports, and release validation
-- **React Native:** business profiles, connection workflows, subscriptions, deep links, and group navigation
-- **Integrations:** REST APIs, authentication, payments, Google Maps, Algolia search, and localization
-- **Engineering:** reusable architecture, debugging, responsive UI, Git workflows, and reliable releases
+### [StockFlow](https://github.com/MuhammedMubashir-dev/stockflow-flutter)
 
-## Selected work
+An offline-first Flutter application for inventory and order management. Includes Riverpod state management, local persistence, responsive layouts, and English/Arabic support.
 
-- **Ganvin** — Flutter logistics and delivery applications for executive and customer workflows
-- **EPOSMOB** — Flutter POS and inventory application with billing and operational workflows
-- **Connect App** — React Native business-networking application
-- **Multi-tenant commerce** — Next.js storefronts with reusable themes, search, authentication, orders, and checkout
+[Explore the code](https://github.com/MuhammedMubashir-dev/stockflow-flutter) · [Download the Android demo](https://github.com/MuhammedMubashir-dev/stockflow-flutter/releases/latest) · [View CI checks](https://github.com/MuhammedMubashir-dev/stockflow-flutter/actions/workflows/flutter-ci.yml)
 
-## Tech stack
+<a href="https://github.com/MuhammedMubashir-dev/stockflow-flutter">
+  <img src="https://raw.githubusercontent.com/MuhammedMubashir-dev/stockflow-flutter/main/docs/screenshots/desktop-dashboard.png" alt="StockFlow desktop dashboard showing inventory, stock levels, orders and low-stock alerts" width="900">
+</a>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### [Next.js E-commerce](https://github.com/MuhammedMubashir-dev/nextjs-ecommerce)
 
-## Featured projects
+A responsive storefront with server-rendered product data, incremental static regeneration, Algolia search, category filters, cart, checkout, and form validation.
 
-- [**Developer Portfolio**](https://github.com/MuhammedMubashir-dev/my-portfolio) — Responsive portfolio with project case studies and production-impact highlights · [Live site](https://muhammed-mubashir-portfolio.netlify.app/)
-- [**Next.js E-commerce Store**](https://github.com/MuhammedMubashir-dev/nextjs-ecommerce) — Storefront featuring ISR, Algolia search, category filtering, cart, and checkout · [Live demo](https://nextjs-ecommerce-amber.vercel.app/)
+[Explore the code](https://github.com/MuhammedMubashir-dev/nextjs-ecommerce) · [Live demo](https://nextjs-ecommerce-amber.vercel.app/)
 
-## Connect
+### [Developer Portfolio](https://github.com/MuhammedMubashir-dev/my-portfolio)
 
-[LinkedIn](https://www.linkedin.com/in/muhammed-mubashir-k/) · [Portfolio](https://muhammed-mubashir-portfolio.netlify.app/) · [Email](mailto:muhammedmubashir720@gmail.com)
+A presentation of my application development experience, project case studies, and résumé.
+
+[Explore the code](https://github.com/MuhammedMubashir-dev/my-portfolio) · [Visit the portfolio](https://muhammed-mubashir-portfolio.netlify.app/)
+
+## Professional contributions
+
+Applications I have contributed to as part of the team at **ENKE Consulting Services LLP**.
+
+| Application | Technology | Areas of contribution |
+| :--- | :--- | :--- |
+| **EPOSMOB** | Flutter / Dart | Point-of-sale, billing, inventory, and retail workflows |
+| **Ganvin Customer & Executive** | Flutter / Dart | Customer ordering, pickup, delivery, and operational workflows |
+| **Connect App** | React Native / TypeScript | Business profiles, connections, authentication, and deep links |
+| **Commerce storefronts** | React / Next.js | Search, authentication, orders, and checkout |
+
+## Technical experience
+
+| Area | Technologies and experience |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart, React Native, TypeScript |
+| **Web** | React, Next.js, JavaScript, Tailwind CSS |
+| **Integrations** | REST APIs, authentication, payments, Google Maps, Algolia |
+| **Application development** | Responsive layouts, English/Arabic localization, RTL interfaces, debugging, Git |
