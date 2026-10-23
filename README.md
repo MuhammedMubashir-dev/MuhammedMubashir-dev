@@ -1,6 +1,6 @@
-![Muhammed Mubashir K — Application Developer. Flutter, React Native, React and Next.js. Mobile, point-of-sale and e-commerce applications.](assets/profile-banner.png)
+![Muhammed Mubashir K, Junior Full Stack Developer. Flutter, React Native, Next.js and Node.js. Mobile, point-of-sale and e-commerce applications.](assets/profile-banner.png)
 
-I’m **Muhammed Mubashir K**, a Junior Application Developer at **ENKE Consulting Services LLP** in Kerala, India. I contribute to mobile and web applications for retail, logistics, e-commerce, and business networking.
+I’m **Muhammed Mubashir K**, a Junior Full Stack Developer at **ENKE Consulting Services LLP** in Kerala, India. I contribute to mobile and web applications for retail, logistics, e-commerce, and business networking.
 
 My experience includes Flutter and React Native applications, React and Next.js storefronts, REST API integrations, authentication, payments, and English/Arabic interfaces.
 
